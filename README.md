@@ -11,8 +11,14 @@ The software uses Excel as a front end - the code is visible in the Visual Basic
 
 A journal article describing FullControl is currently under review - included in this reporsitory for download
 
+
+
 Screenshot:
+
 ![alt text](https://github.com/AndyGlx/Images/blob/master/Screenshot.png?raw=true)
 
+
+
 Journal paper figure:
+
 ![alt text](https://github.com/AndyGlx/Images/blob/master/Final%20figure.jpg?raw=true)
