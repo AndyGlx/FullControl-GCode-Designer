@@ -1,6 +1,6 @@
 ![alt text](https://github.com/AndyGlx/Images/blob/master/Logo%20(white%20BG).png?raw=true)
 
-Software for designing GCODE for 3D printing
+Software for designing GCODE for additive manufacturing (or for other processes that use GCODE such as laser cutting)
 
 See www.FullControlGCODE.com for more information and tutorial videos
 
