@@ -1,5 +1,5 @@
-![alt text](https://github.com/AndyGlx/Images/blob/master/Logo%20(white%20BG).png?raw=true)
-<img src="https://github.com/AndyGlx/Images/blob/master/Logo%20(white%20BG).png" width="400">
+
+<img align="middle" src="https://github.com/AndyGlx/Images/blob/master/Logo%20(white%20BG).png" width="600">
 
 Software for designing GCODE for additive manufacturing (or for other processes that use GCODE such as laser cutting)
 
