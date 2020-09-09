@@ -26,6 +26,6 @@ Journal paper figure:
 
 ![alt text](https://github.com/AndyGlx/Images/blob/master/Final%20figure.jpg?raw=true)
 
-Youtube Highlight Video:
+Youtube Highlight Video (click to play):
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/_QornqeO6IU/0.jpg)](http://www.youtube.com/watch?v=_QornqeO6IU "Video Title")
