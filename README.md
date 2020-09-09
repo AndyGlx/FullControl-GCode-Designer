@@ -15,8 +15,9 @@ A journal article describing FullControl is currently under review - included in
 
 Screenshot:
 
+<kbd>
 ![alt text](https://github.com/AndyGlx/Images/blob/master/Screenshot.png?raw=true)
-
+</kbd>
 
 
 Journal paper figure:
