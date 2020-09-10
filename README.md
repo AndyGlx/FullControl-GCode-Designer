@@ -5,7 +5,7 @@
 
 Software for designing GCODE for additive manufacturing (or for other processes that use GCODE such as laser cutting)
 
-See www.FullControlGCODE.com for more information and tutorial videos
+See www.fullcontrolgcode.com for more information and tutorial videos
 
 Email info@fullcontrolgcode.com for queries, collaboration and support
 
