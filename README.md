@@ -3,7 +3,7 @@
   <img src="https://github.com/AndyGlx/Images/blob/master/Logo%20NEW%20(white%20BG).gif" width="600">
 </p>
 
-Software for designing GCode for additive manufacturing (or for other processes that use GCODE such as laser cutting)
+Software for designing GCode for additive manufacturing (or for other processes that use GCode such as laser cutting)
 
 See www.fullcontrolgcode.com for more information and tutorial videos
 
