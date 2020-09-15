@@ -28,4 +28,4 @@ Journal paper figure:
 
 Youtube Highlight Video (click to play):
 
-[![IMAGE ALT TEXT](https://github.com/AndyGlx/Images/blob/master/Highlight%20Video%20Thumbnail%20-%20video%20cue.jpg)](http://www.youtube.com/watch?v=_QornqeO6IU "FullControl GCODE Designer - Highlight Video")
+[![IMAGE ALT TEXT](https://github.com/AndyGlx/Images/blob/master/Highlight%20Video%20Thumbnail%20-%20video%20cue.jpg)](https://youtu.be/KlxuZ5JnA0k "FullControl GCODE Designer - Highlight Video")
