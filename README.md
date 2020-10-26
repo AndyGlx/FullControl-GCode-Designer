@@ -10,9 +10,9 @@ See www.fullcontrolgcode.com for more information and tutorial videos
 Email info@fullcontrolgcode.com for queries, collaboration and support
 
 
-The software uses Excel as a front end - the code is visible in the Visual Basic application within Excel
+The software uses Excel as a front end - the code is visible in the Visual Basic application within Excel (no installation - just download and open the file FullControl_GCode_Designer_Heron01.xlsm)
 
-A journal article describing FullControl is currently under review - included in this reporsitory for download
+A journal article describing FullControl is currently under review - included in this reporsitory for download ('FullControl GCode Designer - Author Version.pdf')
 
 
 
