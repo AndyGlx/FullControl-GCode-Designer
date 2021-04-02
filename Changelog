@@ -1,5 +1,17 @@
+Heron02a - 02/04/2021
+-Added VBA code "VBA_edit_001" to reset the printing speed parameter after a tool change to ensure that any F-commands in tool-change Gcode do not affect printing speed after the tool change
+-The 'Lattice' demo design in 'FullControlPaperExamples' had a bug (missing parameter/feature links) which has now been fixed
+-Added VBA code "VBA_edit_002" to detect if the computer is using commas as decimal places (and link to a guide to overcome this issue: bit.ly/3dteSmc)
+-Added several example sets of start- and end-GCode (for reference)
+How to transfer data from previous versions: Copy and paste across your designs woksheets and the following worksheets if you edited them: StartGCODE, EndGCODE, ToolGCODE (choose 'Yes' if prompted by Excel about names already existing)
+
+
+
 Heron01a - 09/11/2020
-Minor bug fix to prevent some user settings being deleted when new mathematical polar line features were added
+-Minor bug fix to prevent some user settings being deleted when new mathematical polar line features were added
+How to transfer data from previous versions: Copy and paste across your designs woksheets and the following worksheets if you edited them: StartGCODE, EndGCODE, ToolGCODE (choose 'Yes' if prompted by Excel about names already existing)
+
+
 
 Heron01 - Sep 2020:
-Original shared version
+-Original shared version
