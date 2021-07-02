@@ -1,4 +1,10 @@
-Heron02b - 09/04/2020
+Heron02c - 02/07/2021
+Corrected the title of the 'NomHeight' column in the printpath sheet
+Corrected typo bug in VBA code "VBA_edit_004"
+
+
+
+Heron02b - 09/04/2021
 Minor change to the FeatParams sheet since one of the repeat rule features had the term "X-centre" accidentally replaced by incorrect text
 Minor change to the FeatParams sheet (added Note B to the Reproduce and recalculate feature)
 Edited two lines of VBA code "VBA_edit_003" to make sure the GCode respected the initial position of the nozzle after start GCode
