@@ -15,5 +15,6 @@ Any feedback would be very much appreciated about these designs. E.g. whether th
 
 There is also a design file for the lampshade shown below. This file is not formatted to be easy to use. It's difficult to understand - so use with caution! It's the file called "FullControl_GCODE_Designer_Heron02c - Lampshade.xlsm"
 
-<kbd><img src="https://github.com/AndyGlx/Images/blob/master/Lampshade.jpg" /></kbd>
+<kbd><img src="https://github.com/AndyGlx/Images/blob/master/Lampshade.jpg" width="600"/></kbd>
+<kbd><img src="https://github.com/AndyGlx/Images/blob/master/Lampshade%20topview.jpg" width="200"/></kbd>
 
