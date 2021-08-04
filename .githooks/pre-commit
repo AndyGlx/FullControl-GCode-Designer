@@ -1,0 +1,21 @@
+#!/bin/sh
+
+# PRE-COMMIT file
+
+# last updated 16/2/2019
+
+# Python scripts to extract VBA modules and XML files from Excel files and remove any orphaned directories (where an excel file has been deleted from a repository)
+python .githooks/pre-commit-VBA.py
+python .githooks/pre-commit-XML.py
+
+# Update the commit to include any new/deleted files resulting from the above scripts.
+# This will add any new *.VBA & *.XML directories to the commit that were created by the above scripts,
+# and will remove any orphaned *.VBA & *.XML directories to the commit that were removed by the above scripts.
+# These commands will only add tracked files (i.e. those not excluded by a .gitignore file)
+
+# this updates the commit for any files removed by the scripts within the tracked files/directories
+git add --update
+
+# this updates the commit for any files added by the scripts within the tracked files/directories
+git add -- ./*.vba/* || :
+git add -- ./*.xml/* || :
