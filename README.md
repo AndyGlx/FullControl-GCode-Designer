@@ -22,7 +22,7 @@ Screenshot:
 
 
 
-Journal paper figure:
+Journal paper figure: 
 
 ![alt text](https://github.com/AndyGlx/Images/blob/master/Final%20figure.jpg?raw=true)
 
