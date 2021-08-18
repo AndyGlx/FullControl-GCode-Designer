@@ -38,7 +38,11 @@ If you wish to submit a pull request please clone the repo, edit the xlsm file, 
 
 `git config core.hookspath .githooks`
 
+It may be necessary to do the following in Excel to allow git to access the vba scripts... 
+Open FullControl .xlsm file > File > Options > Trust Centre > Trust Center Settings > Macro Settings > Check the box for “Trust access to the VBA project object model” > Close Excel
+
 Alternatively, directly edit the VBA/XLM files in the .vba and .xlm folders - then there is no need to use the githooks. 
+
 This process for contribution is still being optimised so feel free to suggest improvements to it. 
 
 Only changes to the text of vba/xml code will be accepted, to ensure changes can be effectively reviewed. 
