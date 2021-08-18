@@ -34,8 +34,12 @@ Youtube Highlight Video (click to play):
 
 This repo contains custom git hooks and python scripts to enable all VBA modules, classes, forms, and custom RibbonUI xml files to be exported prior to each commit. You will find the exported files in the .vba and .xml directories.
 
-If you wish to submit a pull request please clone the repo then enter the following to enable the custom hooks prior to any commits:
+If you wish to submit a pull request please clone the repo, edit the xlsm file, then run the following command, in the repo directory, to enable the custom hooks prior to any commits:
 
 `git config core.hookspath .githooks`
 
-Changes to the main .xlsm file will not be accepted without prior communication.
+Alternatively, directly edit the VBA/XLM files in the .vba and .xlm folders - then there is no need to use the githooks. 
+This process for contribution is still being optimised so feel free to suggest improvements to it. 
+
+Only changes to the text of vba/xml code will be accepted, to ensure changes can be effectively reviewed. 
+For security reasons, changes to the main .xlsm file and .frx files will not be accepted without prior communication. 
