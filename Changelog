@@ -1,3 +1,8 @@
+Heron02d - 08/12/2021
+Corrected bug in VBA code where concentric repeats did not recalculate E "VBA_edit_005"
+
+
+
 Heron02c - 02/07/2021
 Corrected the title of the 'NomHeight' column in the printpath sheet
 Corrected typo bug in VBA code "VBA_edit_004"
