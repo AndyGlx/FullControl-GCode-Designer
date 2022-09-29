@@ -1,4 +1,3 @@
-Attribute VB_Name = "GenerateModel"
 
 Public Pi As Double
 Dim cCommandType As Integer
@@ -1397,6 +1396,11 @@ For i = 1 To iNumberOfFeatures
                         'Rotate the line
                         Call RotateLine(dblXold1, dblYold1, dblXold2, dblYold2, dblXcentre, dblYcentre, dblRotationAngle * j * Pi / 180, dblXnew1, dblYnew1, dblXnew2, dblYnew2)
                         Call RadiallyDisplaceLine(dblXnew1, dblYnew1, dblXnew2, dblYnew2, dblXcentre, dblYcentre, dblRadialDisplacement * j, dblXnew1, dblYnew1, dblXnew2, dblYnew2)
+                        
+                        'VBA_edit_005 start
+                        'reset dblE so that it is recalculated (radial changes affect line length)
+                        dblE = 0
+                        'VBA_edit_005 end
                         
                         dblZnew1 = dblZold1
                         dblZnew2 = dblZold2
