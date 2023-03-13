@@ -10,11 +10,17 @@ See www.fullcontrolgcode.com for more information and tutorial videos
 Email info@fullcontrolgcode.com for queries, collaboration and support
 
 
-The software uses Excel as a front end - the code is visible in the Visual Basic application within Excel (no installation - just download and open the file FullControl_GCode_Designer_Heron02d.xlsm by clicking its name in the list of files towards the top of this page)
+The software uses Excel as a front end - the code is visible in the Visual Basic application within Excel. No installation required - just download it from this repository (open the [FullControl_GCode_Designer_Heron02d.xlsm](https://github.com/AndyGlx/FullControl-GCode-Designer/blob/master/FullControl_GCODE_Designer_Heron02d.xlsm) page and click the download button).
+
+Since FullControl used VBA macros, you'll need to activate them when you open the file and potentially follow [microsoft's instructions](https://learn.microsoft.com/en-us/deployoffice/security/internet-macros-blocked#remove-mark-of-the-web-from-a-file) to 'unblock' the file (files downloaded from the internet have added security in recent versions of Windows) 
 
 A journal article describing FullControl is included in this repository for download ('FullControl GCode Designer - Author Version.pdf')
 
-
+Please cite:
+```
+Gleadall, A. (2021). FullControl GCode Designer: open-source software for unconstrained 
+design in additive manufacturing. Additive Manufacturing, 46, 102109.
+```
 
 Screenshot:
 
