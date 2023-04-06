@@ -14,6 +14,10 @@ The software uses Excel as a front end - the code is visible in the Visual Basic
 
 Since FullControl used VBA macros, you'll need to activate them when you open the file and potentially follow [microsoft's instructions](https://learn.microsoft.com/en-us/deployoffice/security/internet-macros-blocked#remove-mark-of-the-web-from-a-file) to 'unblock' the file (files downloaded from the internet have added security in recent versions of Windows) 
 
+#### Python version of FullControl
+
+The python version of FullControl is available [here](https://github.com/FullControlXYZ/fullcontrol) 
+
 A journal article describing FullControl is included in this repository for download ('FullControl GCode Designer - Author Version.pdf')
 
 Please cite:
